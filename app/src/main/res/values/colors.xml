@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <string name="image_url">https://i5.walmartimages.ca/images/Large/534/1_1/999999-622356545341_1.jpg?odnBound=460</string>
+
+</resources>
